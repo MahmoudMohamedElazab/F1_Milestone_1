@@ -3,7 +3,7 @@
 Predicting whether a Formula 1 driver finishes on the podium (top 3) using strictly pre-race information known after qualifying and before the race starts.
 
 [![Kaggle Notebook](https://img.shields.io/badge/Kaggle-Notebook-blue?logo=kaggle)](https://www.kaggle.com/)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/MahmoudMohamedElazab/F1_Milestone_1)
 
 ---
 
