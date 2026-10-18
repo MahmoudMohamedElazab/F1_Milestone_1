@@ -1,0 +1,30 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Operating system artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE and Editor configs
+.vscode/
+.idea/
+*.swp
+*.swo

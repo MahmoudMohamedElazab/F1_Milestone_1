@@ -1,0 +1,52 @@
+{
+  "features": [
+    "grid_clean",
+    "pit_lane_start",
+    "quali_position",
+    "quali_missing",
+    "qual_gap_to_pole",
+    "driver_top10_last3",
+    "driver_podiums_last3",
+    "driver_career_podiums",
+    "driver_career_starts",
+    "constructor_podiums_last5",
+    "driver_champ_points",
+    "driver_champ_pos",
+    "constructor_champ_points",
+    "constructor_champ_pos",
+    "driver_standing_missing",
+    "constructor_standing_missing",
+    "field_size"
+  ],
+  "groups": {
+    "Grid": [
+      "grid_clean",
+      "pit_lane_start"
+    ],
+    "Qualifying": [
+      "quali_position",
+      "quali_missing",
+      "qual_gap_to_pole"
+    ],
+    "Driver form": [
+      "driver_top10_last3",
+      "driver_podiums_last3",
+      "driver_career_podiums",
+      "driver_career_starts"
+    ],
+    "Constructor form": [
+      "constructor_podiums_last5"
+    ],
+    "Championship standings": [
+      "driver_champ_points",
+      "driver_champ_pos",
+      "constructor_champ_points",
+      "constructor_champ_pos",
+      "driver_standing_missing",
+      "constructor_standing_missing"
+    ],
+    "Race context": [
+      "field_size"
+    ]
+  }
+}
